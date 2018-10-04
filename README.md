@@ -10,8 +10,13 @@
 [Jquery](https://www.npmjs.com/package/jquery) <br />
 [CKeditor](https://ckeditor.com/ckeditor-5)
 
+사용한 asset
+-----------------
+https://www.creative-tim.com/product/material-kit-pro
+
 서버 사이드 구축
 ---------------------
+
 
 
 실행 방법
